@@ -13,7 +13,7 @@ Before the clustering models was applied on the dataset, a technique used for fe
 - [Dataset](#Dataset)
 - [Goals of Analysis](#Goals-of-Analysis)
 - [Installation](#installation)
-- [Testing](#testing)
+- [Libraries](#Libraries)
 - [Deployment](#deployment)
 - [System Architecture](#system-architecture)
 - [System Requirements Specification](#system-requirements-specification)
@@ -42,4 +42,7 @@ It is expected that python is already installed on your system.
 `pip3 install jupyter`; To install Jupyter Notebook.
 - Clone or download the repository into your system.
 - Navigate or cd into the folder containing the files of the program in command prompt or terminal
-- Run the command: `jupyter notebook` or python `python -m notebook` to open the notebook in the browser. Select the jupyter file to see the program to start running the application. 
+- Install the required libraries needed for the application if they are not already installed (See libraries section.
+- Run the command: `jupyter notebook` or python `python -m notebook` to open the notebook in the browser. Select the jupyter file to see the program to start running the application `final_capstone.ipynb`. 
+
+## Libraries
