@@ -8,3 +8,28 @@ This project is important because it shows how to look at a problem in a simplif
 
 Before the clustering models was applied on the dataset, a technique used for feature reduction, Principal Component Analysis (PCA) was applied to reduce the features to two instead of the initial four to ease the process of the machine learning application. The two selected features that showed the most positive impact on the dataset after the PCA and other exploratory analysis was carried out was ‘Murder’ and ‘Assault’. These two features were further explored using the two selected clustering techniques, and the results gotten from their analysis was a representation of the full dataset.  
 
+## Table of Contents
+
+- [Instructions](#instructions)
+- [Technologies](#technologies)
+- [Installation](#installation)
+- [Testing](#testing)
+- [Deployment](#deployment)
+- [System Architecture](#system-architecture)
+- [System Requirements Specification](#system-requirements-specification)
+- [Security](#security)
+- [Wireframes](#wireframes)
+- [Usage](#usage)
+- [Credits](#credits)
+
+## Instructions
+
+These were the instructions I was given to guide me in this task:
+
+**Follow these steps:**
+
+- Create a full-stack web application that meets ALL the criteria listed previously for this Capstone Project.
+- Deploy your app. Add the link to your deployed application to the readme.md file of your project.
+- Push all the work that you have generated for this project (including the design documentation that you generated in the first part of the project) to GitHub.
+
+## Technologies
