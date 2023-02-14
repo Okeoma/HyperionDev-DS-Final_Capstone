@@ -67,8 +67,57 @@ Figure 1
 ![figure 2](Screenshots/02_Data_Dist_Boxplot.jpg)
 Figure 2
 
-3. Cummulative variance showing threshold of the features.
+3. Cummulative variance showing threshold of Principal Components.
 
 ![figure 3](Screenshots/03_Cumm_Var_Showing_Threshold.jpg)
 Figure 3
 
+4. Barplot showing the variations of the two Principal Components.
+
+![figure 4](Screenshots/04_Var_Explained_Barplot.jpg)
+Figure 4
+
+5. Chart showing the PCA for all the features.
+
+![figure 5](Screenshots/05_PCA_Chart.jpg)
+Figure 5
+
+6. Chart showing Dandograms of Agglomerative clustering.
+
+![figure 6](Screenshots/06_Selected_Dand.jpg)
+Figure 6
+
+7. Boxplot of Agglomerative clustering features.
+
+![figure 7](Screenshots/07_Agglo-Bloxplot.jpg)
+Figure 7
+
+8. Satterplot of Agglomerative clustering features showing High and Low crime zones.
+
+![figure 8](Screenshots/08_Agglo_Scatterplot.jpg)
+Figure 8
+
+9. Elbow lineplot for indicating optimum number of K-means clustering features.
+
+![figure 9](Screenshots/09_K_means_Elbow.jpg)
+Figure 9
+
+10. Boxplot of K-means clustering features.
+
+![figure 10](Screenshots/10_K_means_Boxplot.jpg)
+Figure 10
+
+11. Satterplot of K-means clustering features showing High and Low crime zones.
+
+![figure 11](Screenshots/11_K_means_Scatter_plot.jpg)
+Figure 11
+
+12. Satterplot of Agglomerative clustering indicating states of either High or Low crime zones.
+
+![figure 12](Screenshots/12_Agglo_Finalscatter.jpg)
+Figure 12
+
+13. Satterplot of AK-means clustering indicating states of either High or Low crime zones.
+
+![figure 13](Screenshots/13_K_means_Finalscatter.jpg)
+Figure 13
