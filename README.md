@@ -112,7 +112,7 @@ Figure 11
 ![figure 12](Screenshots/12_Agglo_Finalscatter.jpg)
 Figure 12
 
-13. Scatterplot of AK-means clustering indicating states of either High or Low crime zones.
+13. Scatterplot of K-means clustering indicating states of either High or Low crime zones.
 
 ![figure 13](Screenshots/13_K_means_Finalscatter.jpg)
 Figure 13
