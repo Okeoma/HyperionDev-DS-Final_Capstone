@@ -87,7 +87,7 @@ Figure 6
 ![figure 7](Screenshots/07_Agglo-Bloxplot.jpg)
 Figure 7
 
-8. Satterplot of Agglomerative clustering features showing High and Low crime zones.
+8. Scatterplot of Agglomerative clustering features showing High and Low crime zones.
 
 ![figure 8](Screenshots/08_Agglo_Scatterplot.jpg)
 Figure 8
@@ -102,17 +102,17 @@ Figure 9
 ![figure 10](Screenshots/10_K_means_Boxplot.jpg)
 Figure 10
 
-11. Satterplot of K-means clustering features showing High and Low crime zones.
+11. Scatterplot of K-means clustering features showing High and Low crime zones.
 
 ![figure 11](Screenshots/11_K_means_Scatter_plot.jpg)
 Figure 11
 
-12. Satterplot of Agglomerative clustering indicating states of either High or Low crime zones.
+12. Scatterplot of Agglomerative clustering indicating states of either High or Low crime zones.
 
 ![figure 12](Screenshots/12_Agglo_Finalscatter.jpg)
 Figure 12
 
-13. Satterplot of AK-means clustering indicating states of either High or Low crime zones.
+13. Scatterplot of AK-means clustering indicating states of either High or Low crime zones.
 
 ![figure 13](Screenshots/13_K_means_Finalscatter.jpg)
 Figure 13
