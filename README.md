@@ -10,8 +10,8 @@ Before the clustering models was applied on the dataset, a technique used for fe
 
 ## Table of Contents
 
-- [Instructions](#instructions)
-- [Technologies](#technologies)
+- [Dataset](#Dataset)
+- [Goals of Analysis](#technologies)
 - [Installation](#installation)
 - [Testing](#testing)
 - [Deployment](#deployment)
@@ -22,14 +22,14 @@ Before the clustering models was applied on the dataset, a technique used for fe
 - [Usage](#usage)
 - [Credits](#credits)
 
-## Instructions
+## Dataset
 
-These were the instructions I was given to guide me in this task:
+The USArrest.csv dataset contains statistics, in arrest per 100,000 residents for assault, murder and rape in each of the 50 US States in 1973. The percentage of the population living in urban areas is also given.
 
-**Follow these steps:**
+## Goals of Analysis
+**The aim of the Analysis are as follows:**
 
-- Create a full-stack web application that meets ALL the criteria listed previously for this Capstone Project.
-- Deploy your app. Add the link to your deployed application to the readme.md file of your project.
-- Push all the work that you have generated for this project (including the design documentation that you generated in the first part of the project) to GitHub.
-
-## Technologies
+- To explore the dataset in order to gain insights on the relationships between the features of the dataset and draw inferences.
+- To investigate the impact of each individual feature in the dataset using PCA to understand it's impact and to decide if it should be dropped or be used for further analysis.
+- Apply two major Unsupervised Machine Learning methods/ Clustering technigues (Agglomerative and K-means) on the selected features to give a clearer picture of the crime rates in the states using the most effective parameters and group them according to crime zones; high or low.
+- Finally, compare the two Clustering methods used to see their similarities and differences.
