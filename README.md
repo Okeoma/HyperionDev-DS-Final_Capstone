@@ -14,12 +14,12 @@ Before the clustering models was applied on the dataset, a technique used for fe
 - [Goals of Analysis](#Goals-of-Analysis)
 - [Installation](#installation)
 - [Libraries](#Libraries)
+- [Usage](#usage)
 - [Deployment](#deployment)
 - [System Architecture](#system-architecture)
 - [System Requirements Specification](#system-requirements-specification)
 - [Security](#security)
 - [Wireframes](#wireframes)
-- [Usage](#usage)
 - [Credits](#credits)
 
 ## Dataset
@@ -46,7 +46,7 @@ It is expected that python is already installed on your system.
 - Run the command: `jupyter notebook` or python `python -m notebook` to open the notebook in the browser. Select the jupyter file to see the program to start running the application `final_capstone.ipynb`. 
 
 ## Libraries
-**Install the following libraries from the command prompt/terminal if not already installed or directly from the jupyter notebook cells:
+**Install the following libraries from the command prompt/terminal if not already installed or directly from the jupyter notebook cells:**
 - `pip install numpy`
 - `pip install pandas`
 - `pip install seaborn`
@@ -55,3 +55,5 @@ It is expected that python is already installed on your system.
 - `pip install pca`
 - `pip install scipy`
 
+## Usage
+After installing all the libraries and opening the jupyter notebook in a browser (except if you are using the Anaconda version), You can view the outcome of the program directly by running the cells of the notebook from top to bottom. Below are some of the screen shots of the application.
