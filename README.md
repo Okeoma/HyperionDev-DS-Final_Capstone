@@ -57,15 +57,17 @@ It is expected that python is already installed on your system.
 
 ## Usage
 After installing all the libraries and opening the jupyter notebook in a browser (except if you are using the Anaconda version), You can view the outcome of the program directly by running the cells of the notebook from top to bottom. Below are some of the screen shots of the application.
-1. Heatmap showing relationships of the featues.
+1. Heatmap showing relationships of the features.
 
 ![figure 1](Screenshots/01_Corr_Heat_Map.jpg)
 Figure 1
+
 2. Boxplot showing the different distribution of the features.
 
 ![figure 2](Screenshots/02_Data_Dist_Boxplot.jpg)
 Figure 2
-3. Cummulative variance showing threshold of the featues.
+
+3. Cummulative variance showing threshold of the features.
 
 ![figure 3](Screenshots/03_Cumm_Var_Showing_Threshold.jpg)
 Figure 3
