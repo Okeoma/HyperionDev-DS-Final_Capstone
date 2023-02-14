@@ -31,18 +31,27 @@ The USArrest.csv dataset contains statistics, in arrest per 100,000 residents fo
 
 - To explore the dataset in order to gain insights on the relationships between the features of the dataset and draw inferences.
 - To investigate the impact of each individual feature in the dataset using PCA to understand it's impact and to decide if it should be dropped or be used for further analysis.
-- Apply two major Unsupervised Machine Learning methods/ Clustering technigues (Agglomerative and K-means) on the selected features to give a clearer picture of the crime rates in the states using the most effective parameters and group them according to crime zones; high or low.
+- Apply two major Unsupervised Machine Learning methods/ Clustering technigues (Agglomerative and K-means both from Scikit Learn library) on the selected features to give a clearer picture of the crime rates in the states using the most effective parameters and group them according to crime zones; high or low.
 - Finally, compare the two Clustering methods used to see their similarities and differences.
 
 ## Installation
 **To run the application, follow the steps below. If you have Jupyter notebook installed, ignore the first step.**
 It is expected that python is already installed on your system.
 -  Installing Jupyter with pip. Open command prompt or terminal and type the following: 
-`pip3 install --upgrade pip`; To ensure that you have the current version of pip;
-`pip3 install jupyter`; To install Jupyter Notebook.
+`pip3 install --upgrade pip`; to ensure that you have the current version of pip;
+`pip3 install jupyter`; to install Jupyter Notebook.
 - Clone or download the repository into your system.
 - Navigate or cd into the folder containing the files of the program in command prompt or terminal
 - Install the required libraries needed for the application if they are not already installed (See libraries section.
 - Run the command: `jupyter notebook` or python `python -m notebook` to open the notebook in the browser. Select the jupyter file to see the program to start running the application `final_capstone.ipynb`. 
 
 ## Libraries
+**Install the following libraries from the command prompt/terminal if not already installed or directly from the jupyter notebook cells:
+- `pip install numpy`
+- `pip install pandas`
+- `pip install seaborn`
+- `pip install matplotlib`
+- `pip install sklearn`
+- `pip install pca`
+- `pip install scipy`
+
