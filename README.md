@@ -37,9 +37,9 @@ The USArrest.csv dataset contains statistics, in arrest per 100,000 residents fo
 ## Installation
 **To run the application, follow the steps below. If you have Jupyter notebook installed, ignore the first step.**
 It is expected that python is already installed on your system.
--  Installing Jupyter with pip. Open command prompt or terminal and type the following. 
-`pip3 install --upgrade pip` To ensure that you have the current version of pip.
-`pip3 install jupyter` To install Jupyter Notebook.
+-  Installing Jupyter with pip. Open command prompt or terminal and type the following: 
+`pip3 install --upgrade pip`; To ensure that you have the current version of pip;
+`pip3 install jupyter`; To install Jupyter Notebook.
 - Clone or download the repository into your system.
 - Navigate or cd into the folder containing the files of the program in command prompt or terminal
 - Run the command: `jupyter notebook` or python `python -m notebook` to open the notebook in the browser. Select the jupyter file to see the program to start running the application. 
