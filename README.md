@@ -11,7 +11,7 @@ Before the clustering models was applied on the dataset, a technique used for fe
 ## Table of Contents
 
 - [Dataset](#Dataset)
-- [Goals of Analysis](#Goals of Analysis)
+- [Goals of Analysis](#Goals-of-Analysis)
 - [Installation](#installation)
 - [Testing](#testing)
 - [Deployment](#deployment)
