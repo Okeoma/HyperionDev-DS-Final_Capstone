@@ -15,11 +15,6 @@ Before the clustering models was applied on the dataset, a technique used for fe
 - [Installation](#installation)
 - [Libraries](#Libraries)
 - [Usage](#usage)
-- [Deployment](#deployment)
-- [System Architecture](#system-architecture)
-- [System Requirements Specification](#system-requirements-specification)
-- [Security](#security)
-- [Wireframes](#wireframes)
 - [Credits](#credits)
 
 ## Dataset
@@ -121,3 +116,8 @@ Figure 12
 
 ![figure 13](Screenshots/13_K_means_Finalscatter.jpg)
 Figure 13
+
+## Credits
+
+This Project was created by Okeoma Ihunwo as a Final Capstone for HyperioDev Data Science Bootcamp - February 2023 [GitHub profile](https://github.com/Okeoma/)
+
