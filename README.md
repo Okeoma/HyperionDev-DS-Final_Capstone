@@ -119,5 +119,5 @@ Figure 13
 
 ## Credits
 
-This Project was created by Okeoma Ihunwo as a Final Capstone for HyperioDev Data Science Bootcamp - February 2023 [GitHub profile](https://github.com/Okeoma/)
+This Project was created by Okeoma Ihunwo as a Final Capstone for HyperionDev Data Science Bootcamp - February 2023 [GitHub profile](https://github.com/Okeoma/)
 
