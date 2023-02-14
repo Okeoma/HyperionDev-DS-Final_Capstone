@@ -33,3 +33,7 @@ The USArrest.csv dataset contains statistics, in arrest per 100,000 residents fo
 - To investigate the impact of each individual feature in the dataset using PCA to understand it's impact and to decide if it should be dropped or be used for further analysis.
 - Apply two major Unsupervised Machine Learning methods/ Clustering technigues (Agglomerative and K-means) on the selected features to give a clearer picture of the crime rates in the states using the most effective parameters and group them according to crime zones; high or low.
 - Finally, compare the two Clustering methods used to see their similarities and differences.
+
+## Installation
+**To run the application, follow the steps below. If you have Jupyter notebook installed, ignore the first three steps.**
+
