@@ -57,3 +57,7 @@ It is expected that python is already installed on your system.
 
 ## Usage
 After installing all the libraries and opening the jupyter notebook in a browser (except if you are using the Anaconda version), You can view the outcome of the program directly by running the cells of the notebook from top to bottom. Below are some of the screen shots of the application.
+1. Click on the "Connect" button. See figure 21 below.
+
+![figure 1](Screenshots/01_Corr_Heat_Map.jpg)
+Figure 1
